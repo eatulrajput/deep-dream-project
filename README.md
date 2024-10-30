@@ -1,1 +1,1 @@
-# deep-dream-project
+Deep Dream Project

@@ -1,0 +1,7 @@
+tensorflow==2.14.0               # Specify a compatible version for your environment
+numpy==1.23.5                    # For array manipulations
+matplotlib==3.7.2                # For image plotting
+Pillow==9.5.0                    # For image preprocessing and loading
+
+
+pip install -r requirements.txt
