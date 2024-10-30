@@ -1,1 +1,1 @@
-Deep Dream Project
+Deep Dream Project: CVPR Project
